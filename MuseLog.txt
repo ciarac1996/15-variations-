@@ -1,0 +1,185 @@
+1254: Logging in build 2015.2.1.21 started at: Mon Sep  5 09:39:57 2016
+========================================
+1254: [00:00:11.270] 09:40:08.853 | Trying to open file '/Users/s127770/Downloads/CDS1002-Week 1-Final (3)/Week-1-Final.muse with size:3571712 mod Date:Sun Jul 20 21:12:52 GMT+1000 2014
+1254: [00:00:11.274] 09:40:08.858 | Opening file '/Users/s127770/Downloads/CDS1002-Week 1-Final (3)/Week-1-Final.muse' with status:success size:3571712 mod Date:Sun Jul 20 21:12:52 GMT+1000 2014 highestUID: 331
+1254: [00:00:11.823] 09:40:09.407 | Converting from file format 264 to format 352 for file:/Users/s127770/Downloads/CDS1002-Week 1-Final (3)/Week-1-Final.muse
+1254: [01:05:56.172] 10:45:53.756 | quitWithUI:Quitting Application. Called by: 
+1254: [01:06:00.572] 10:45:58.156 | Quitting Application after 65.9 minutes. Called by: 
+1254: [01:06:03.314] Logging shutdown normally
+1155: Logging in build 2015.2.1.21 started at: Mon Sep  5 18:08:16 2016
+========================================
+1155: [00:00:09.241] 18:08:25.497 | Trying to open file '/Users/s127770/Downloads/CDS1002-Week 1-Final (4)/Week-1-Final.muse with size:3571712 mod Date:Sun Jul 20 21:12:52 GMT+1000 2014
+1155: [00:00:09.249] 18:08:25.506 | Opening file '/Users/s127770/Downloads/CDS1002-Week 1-Final (4)/Week-1-Final.muse' with status:success size:3571712 mod Date:Sun Jul 20 21:12:52 GMT+1000 2014 highestUID: 331
+1155: [00:00:09.832] 18:08:26.089 | Converting from file format 264 to format 352 for file:/Users/s127770/Downloads/CDS1002-Week 1-Final (4)/Week-1-Final.muse
+1155: [00:21:25.679] 18:29:41.936 | Beginning SaveAs of 'Website-1' to file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:96
+1155: [00:21:27.116] 18:29:43.373 | SaveAs complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:360448 mod Date:Mon Sep 5 18:29:43 GMT+1000 2016 highest UID:96
+1155: [00:43:33.487] 18:51:49.744 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:145
+1155: [00:43:35.028] 18:51:51.285 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:557056 mod Date:Mon Sep 5 18:51:51 GMT+1000 2016 highest UID:145
+1155: [00:57:43.889] 19:06:00.145 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:182
+1155: [00:57:45.100] 19:06:01.357 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:622592 mod Date:Mon Sep 5 19:06:01 GMT+1000 2016 highest UID:182
+1155: [01:20:20.408] 19:28:36.664 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:272
+1155: [01:20:21.614] 19:28:37.871 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:983040 mod Date:Mon Sep 5 19:28:37 GMT+1000 2016 highest UID:272
+1155: [01:20:38.411] 19:28:54.668 | MenuWidgetPageItem::copyTo::updateQueryInfoLocal removing listener(if any) for CONVERSION_SESSION_ENDING
+1155: [01:21:00.826] 19:29:17.083 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:359
+1155: [01:21:01.996] 19:29:18.253 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1015808 mod Date:Mon Sep 5 19:29:18 GMT+1000 2016 highest UID:359
+1155: [01:21:21.036] 19:29:37.293 | MenuWidgetPageItem::copyTo::updateQueryInfoLocal removing listener(if any) for CONVERSION_SESSION_ENDING
+1155: [01:21:26.051] 19:29:42.307 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:446
+1155: [01:21:27.911] 19:29:44.168 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1310720 mod Date:Mon Sep 5 19:29:44 GMT+1000 2016 highest UID:446
+1155: [01:22:09.229] 19:30:25.486 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:449
+1155: [01:22:10.455] 19:30:26.712 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1310720 mod Date:Mon Sep 5 19:30:26 GMT+1000 2016 highest UID:449
+1155: [01:22:56.672] 19:31:12.928 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:449
+1155: [01:22:58.203] 19:31:14.460 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1310720 mod Date:Mon Sep 5 19:31:14 GMT+1000 2016 highest UID:449
+1155: [01:32:38.540] 19:40:54.797 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:462
+1155: [01:32:40.106] 19:40:56.363 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1376256 mod Date:Mon Sep 5 19:40:56 GMT+1000 2016 highest UID:462
+1155: [01:38:51.548] 19:47:07.804 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:462
+1155: [01:38:53.117] 19:47:09.374 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1376256 mod Date:Mon Sep 5 19:47:09 GMT+1000 2016 highest UID:462
+1155: [01:53:05.801] 20:01:22.058 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:475
+1155: [01:53:07.360] 20:01:23.617 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1572864 mod Date:Mon Sep 5 20:01:23 GMT+1000 2016 highest UID:475
+1155: [01:53:38.294] 20:01:54.551 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:475
+1155: [01:53:39.821] 20:01:56.078 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1572864 mod Date:Mon Sep 5 20:01:55 GMT+1000 2016 highest UID:475
+1155: [01:53:59.685] 20:02:15.941 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:475
+1155: [01:54:01.196] 20:02:17.453 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1572864 mod Date:Mon Sep 5 20:02:17 GMT+1000 2016 highest UID:475
+1155: [02:16:00.050] 20:24:16.307 | Beginning Save for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' highest UID:527
+1155: [02:16:01.288] 20:24:17.545 | Save complete for file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' file size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highest UID:527
+1155: [15:57:43.714] 10:05:59.970 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+1155: [15:57:43.718] 10:05:59.975 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+1155: [16:06:08.187] 10:14:24.443 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+1155: [16:06:08.190] 10:14:24.447 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+1155: [16:07:23.155] 10:15:39.412 | Trying to open file '/Users/s127770/Downloads/CDS1002-Week2-Final/Week-2-Final.muse with size:7372800 mod Date:Fri Jul 18 17:44:28 GMT+1000 2014
+1155: [16:07:23.160] 10:15:39.416 | Opening file '/Users/s127770/Downloads/CDS1002-Week2-Final/Week-2-Final.muse' with status:success size:7372800 mod Date:Fri Jul 18 17:44:28 GMT+1000 2014 highestUID: 1018
+1155: [16:07:23.725] 10:15:39.981 | Converting from file format 264 to format 352 for file:/Users/s127770/Downloads/CDS1002-Week2-Final/Week-2-Final.muse
+1155: [16:08:36.697] 10:16:52.954 | Trying to open file '/Users/s127770/Downloads/CDS1002-Week2-Start/Week-2-Start.muse with size:6488064 mod Date:Mon Jul 21 20:04:35 GMT+1000 2014
+1155: [16:08:36.702] 10:16:52.959 | Opening file '/Users/s127770/Downloads/CDS1002-Week2-Start/Week-2-Start.muse' with status:success size:6488064 mod Date:Mon Jul 21 20:04:35 GMT+1000 2014 highestUID: 1039
+1155: [16:08:37.274] 10:16:53.531 | Converting from file format 264 to format 352 for file:/Users/s127770/Downloads/CDS1002-Week2-Start/Week-2-Start.muse
+1155: [69:49:41.790] 15:57:58.046 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+1155: [69:49:41.795] 15:57:58.052 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+1155: [69:55:50.560] 16:04:06.816 | Trying to open file '/Users/s127770/Downloads/CDS1002-Week2-Start/Week-2-Start.muse with size:6488064 mod Date:Mon Jul 21 20:04:35 GMT+1000 2014
+1155: [69:55:50.563] 16:04:06.820 | Opening file '/Users/s127770/Downloads/CDS1002-Week2-Start/Week-2-Start.muse' with status:success size:6488064 mod Date:Mon Jul 21 20:04:35 GMT+1000 2014 highestUID: 1039
+1155: [69:55:51.163] 16:04:07.420 | Converting from file format 264 to format 352 for file:/Users/s127770/Downloads/CDS1002-Week2-Start/Week-2-Start.muse
+1155: [70:07:59.187] 16:16:15.444 | Beginning SaveAs of 'Week-2-Start' to file '/Users/s127770/Desktop/w2.muse' highest UID:1418
+1155: [70:08:00.760] 16:16:17.017 | SaveAs complete for file '/Users/s127770/Desktop/w2.muse' file size:1966080 mod Date:Thu Sep 8 16:16:16 GMT+1000 2016 highest UID:1418
+1155: [180:26:43.008] 06:34:59.257 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+1155: [180:26:43.031] 06:34:59.286 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisse/Website-1.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+1155: [180:28:36.544] 06:36:52.801 | Trying to open file '/Users/s127770/Downloads/27822796_CiaraClarisse/Website-1.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+1155: [180:28:36.554] 06:36:52.811 | Opening file '/Users/s127770/Downloads/27822796_CiaraClarisse/Website-1.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+1155: [259:53:01.284] 14:01:17.535 | quitWithUI:Quitting Application. Called by: 
+1155: [259:53:01.441] 14:01:17.697 | Quitting Application after 15593 minutes. Called by: 
+570: Logging in build 2015.2.1.21 started at: Wed Sep 21 11:22:43 2016
+========================================
+570: [00:00:12.716] 11:22:56.438 | AssertInDebug: failed to convert updater data to XML: Error #1085: The element type "link" must be terminated by the matching end-tag "</link>".-updateDescriptorLoader_completeHandler+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MuseURLLoader/dispatchEvent+URLLoader/onComplete+end stack
+570: [00:00:17.544] 11:23:01.266 | Trying to open file '/Users/s127770/Desktop/w2.muse with size:1966080 mod Date:Thu Sep 8 16:16:16 GMT+1000 2016
+570: [00:00:17.548] 11:23:01.269 | Opening file '/Users/s127770/Desktop/w2.muse' with status:success size:1966080 mod Date:Thu Sep 8 16:16:16 GMT+1000 2016 highestUID: 1418
+570: [00:00:37.337] 11:23:21.059 | Error - IMS : ErrorCode=21 ErrorMessage=
+570: [00:17:36.869] 11:40:20.591 | Trying to open file '/Users/s127770/Desktop/w2.muse with size:1966080 mod Date:Thu Sep 8 16:16:16 GMT+1000 2016
+570: [00:17:36.872] 11:40:20.594 | Opening file '/Users/s127770/Desktop/w2.muse' with status:success size:1966080 mod Date:Thu Sep 8 16:16:16 GMT+1000 2016 highestUID: 1418
+570: [00:35:16.941] 11:58:00.663 | Error - IMS : ErrorCode=22 ErrorMessage=
+570: [00:50:56.053] 12:13:39.775 | Beginning Save for file '/Users/s127770/Desktop/w2.muse' highest UID:1602
+570: [00:50:57.323] 12:13:41.045 | Save complete for file '/Users/s127770/Desktop/w2.muse' file size:2392064 mod Date:Wed Sep 21 12:13:40 GMT+1000 2016 highest UID:1602
+570: [00:58:48.936] 12:21:32.658 | quitWithUI:Quitting Application. Called by: 
+570: [00:58:48.938] 12:21:32.660 | Quitting Application after 58.7 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+540: Logging in build 2015.2.1.21 started at: Thu Sep 22 03:10:32 2016
+========================================
+540: [00:00:11.195] 03:10:43.631 | Trying to open file '/Users/s127770/Downloads/CDS1002-Week3-Final 2/Week-3-Final.muse with size:2031616 mod Date:Tue Jul 22 17:44:46 GMT+1000 2014
+540: [00:00:11.198] 03:10:43.633 | Opening file '/Users/s127770/Downloads/CDS1002-Week3-Final 2/Week-3-Final.muse' with status:success size:2031616 mod Date:Tue Jul 22 17:44:46 GMT+1000 2014 highestUID: 259
+540: [00:00:11.767] 03:10:44.203 | Converting from file format 264 to format 352 for file:/Users/s127770/Downloads/CDS1002-Week3-Final 2/Week-3-Final.muse
+540: [00:01:10.674] 03:11:43.109 | Beginning SaveAs of 'Week-3-Final' to file '/Users/s127770/Desktop/Week-3-Final.muse' highest UID:366
+540: [00:01:12.193] 03:11:44.629 | SaveAs complete for file '/Users/s127770/Desktop/Week-3-Final.muse' file size:1376256 mod Date:Thu Sep 22 03:11:44 GMT+1000 2016 highest UID:366
+540: [01:13:48.166] 04:24:20.602 | Trying to open file '/Users/s127770/Desktop/w2.muse with size:2392064 mod Date:Wed Sep 21 12:13:40 GMT+1000 2016
+540: [01:13:48.169] 04:24:20.605 | Opening file '/Users/s127770/Desktop/w2.muse' with status:success size:2392064 mod Date:Wed Sep 21 12:13:40 GMT+1000 2016 highestUID: 1602
+540: [01:48:25.963] 04:58:58.399 | Beginning Save for file '/Users/s127770/Desktop/w2.muse' highest UID:1869
+540: [01:48:27.210] 04:58:59.646 | Save complete for file '/Users/s127770/Desktop/w2.muse' file size:2916352 mod Date:Thu Sep 22 04:58:59 GMT+1000 2016 highest UID:1869
+540: [02:12:10.536] 05:22:42.972 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+540: [02:12:10.670] 05:22:43.106 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+540: [02:20:02.694] 05:30:35.130 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+540: [02:20:25.072] 05:30:57.508 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+540: [02:20:25.570] 05:30:58.006 | positionEverything called positionChildren twice and the box model adjusted boxes again.
+540: [02:23:18.237] 05:33:50.673 | Beginning Save for file '/Users/s127770/Desktop/w2.muse' highest UID:2286
+540: [02:23:19.485] 05:33:51.921 | Save complete for file '/Users/s127770/Desktop/w2.muse' but the file doesn't seem to exist. Moved, renamed or deleted? highest UID:2286
+540: [02:29:13.213] 05:39:45.648 | Beginning Save for file '/Users/s127770/Desktop/w2.muse' highest UID:2400
+540: [02:29:15.579] 05:39:48.015 | Save complete for file '/Users/s127770/Desktop/w2.muse' but the file doesn't seem to exist. Moved, renamed or deleted? highest UID:2400
+540: [02:34:59.314] 05:45:31.749 | Trying to open file '/Users/s127770/Desktop/Week-3-Final.muse with size:1376256 mod Date:Thu Sep 22 03:11:44 GMT+1000 2016
+540: [02:34:59.316] 05:45:31.752 | Opening file '/Users/s127770/Desktop/Week-3-Final.muse' with status:success size:1376256 mod Date:Thu Sep 22 03:11:44 GMT+1000 2016 highestUID: 366
+540: [02:36:33.867] 05:47:06.303 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisse/w2.muse with size:2916352 mod Date:Thu Sep 22 05:39:47 GMT+1000 2016
+540: [02:36:33.871] 05:47:06.306 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisse/w2.muse' with status:success size:2916352 mod Date:Thu Sep 22 05:39:47 GMT+1000 2016 highestUID: 2400
+540: [02:38:02.081] 05:48:34.517 | Beginning Save for file '/Users/s127770/Desktop/27822796_CiaraClarisse/w2.muse' highest UID:2400
+540: [02:38:03.387] 05:48:35.823 | Save complete for file '/Users/s127770/Desktop/27822796_CiaraClarisse/w2.muse' file size:2916352 mod Date:Thu Sep 22 05:48:35 GMT+1000 2016 highest UID:2400
+522: Logging in build 2015.2.1.21 started at: Thu Sep 22 09:58:44 2016
+========================================
+522: [00:00:09.846] 09:58:54.196 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisse 3/w2.muse with size:2916352 mod Date:Thu Sep 22 05:39:47 GMT+1000 2016
+522: [00:00:09.850] 09:58:54.201 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisse 3/w2.muse' with status:success size:2916352 mod Date:Thu Sep 22 05:39:47 GMT+1000 2016 highestUID: 2400
+522: [00:02:12.285] 10:00:56.636 | quitWithUI:Quitting Application. Called by: 
+522: [00:02:12.286] 10:00:56.637 | Quitting Application after 2.1 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+2497: Logging in build 2015.2.1.21 started at: Mon Sep 26 17:07:41 2016
+========================================
+2497: [00:18:32.301] 17:26:13.799 | Trying to open file '/Users/s127770/Desktop/Week-3-Final.muse with size:1376256 mod Date:Thu Sep 22 03:11:44 GMT+1000 2016
+2497: [00:18:32.305] 17:26:13.804 | Opening file '/Users/s127770/Desktop/Week-3-Final.muse' with status:success size:1376256 mod Date:Thu Sep 22 03:11:44 GMT+1000 2016 highestUID: 366
+2497: [00:55:58.835] 18:03:40.334 | Beginning Save for file '/Users/s127770/Desktop/Week-3-Final.muse' highest UID:410
+2497: [00:56:00.084] 18:03:41.582 | Save complete for file '/Users/s127770/Desktop/Week-3-Final.muse' file size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016 highest UID:410
+2497: [00:58:26.917] 18:06:08.416 | Trying to open file '/Users/s127770/Desktop/Week-3-Final.muse with size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016
+2497: [00:58:26.921] 18:06:08.420 | Opening file '/Users/s127770/Desktop/Week-3-Final.muse' with status:success size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016 highestUID: 410
+2497: [16:18:45.439] 09:26:26.936 | Trying to open file '/Users/s127770/Desktop/Week-3-Final.muse with size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016
+2497: [16:18:45.441] 09:26:26.940 | Opening file '/Users/s127770/Desktop/Week-3-Final.muse' with status:success size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016 highestUID: 410
+2497: [50:15:32.638] 19:23:14.136 | quitWithUI:Quitting Application. Called by: 
+2497: [50:15:32.646] 19:23:14.145 | Quitting Application after 3015.4 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+5767: Logging in build 2015.2.1.21 started at: Wed Oct  5 17:10:02 2016
+========================================
+5767: [00:00:12.495] 17:10:15.276 | Trying to open file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+5767: [00:00:12.501] 17:10:15.282 | Opening file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/Website-1.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+5767: [00:00:35.502] 17:10:38.284 | Trying to open file '/Users/s127770/Desktop/TASK 3 /Week-3-Final.muse with size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016
+5767: [00:00:35.506] 17:10:38.287 | Opening file '/Users/s127770/Desktop/TASK 3 /Week-3-Final.muse' with status:success size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016 highestUID: 410
+5767: [00:09:03.865] 17:19:06.647 | Trying to open file '/Users/s127770/Desktop/Week-3-Final.muse with size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016
+5767: [00:09:03.869] 17:19:06.650 | Opening file '/Users/s127770/Desktop/Week-3-Final.muse' with status:success size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016 highestUID: 410
+5767: [00:16:01.510] 17:26:04.292 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisse /Week-3-Final.muse with size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016
+5767: [00:16:01.513] 17:26:04.295 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisse /Week-3-Final.muse' with status:success size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016 highestUID: 410
+5767: [340:08:54.584] 21:18:57.364 | quitWithUI:Quitting Application. Called by: 
+5767: [340:08:54.624] 21:18:57.404 | Quitting Application after 20408.8 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+18241: Logging in build 2015.2.1.21 started at: Thu Oct 20 19:00:09 2016
+========================================
+18241: [00:00:15.013] 19:00:24.879 | Trying to open file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/27822796_CiaraClarisse/Website-1.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+18241: [00:00:15.018] 19:00:24.884 | Opening file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/27822796_CiaraClarisse/Website-1.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+18241: [00:00:35.821] 19:00:45.688 | Trying to open file '/Users/s127770/Desktop/Website-1 copy.muse with size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016
+18241: [00:00:35.823] 19:00:45.690 | Opening file '/Users/s127770/Desktop/Website-1 copy.muse' with status:success size:1703936 mod Date:Mon Sep 5 20:24:17 GMT+1000 2016 highestUID: 527
+18241: [00:15:27.629] 19:15:37.496 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:565
+18241: [00:15:29.200] 19:15:39.067 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:1769472 mod Date:Thu Oct 20 19:15:38 GMT+1100 2016 highest UID:565
+18241: [00:51:21.651] 19:51:31.518 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:916
+18241: [00:51:22.987] 19:51:32.853 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:2129920 mod Date:Thu Oct 20 19:51:32 GMT+1100 2016 highest UID:916
+18241: [00:54:50.224] 19:55:00.091 | Trying to open file '/Users/s127770/Desktop/TASK 3 /Week-3-Final.muse with size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016
+18241: [00:54:50.228] 19:55:00.095 | Opening file '/Users/s127770/Desktop/TASK 3 /Week-3-Final.muse' with status:success size:2588672 mod Date:Mon Sep 26 18:03:41 GMT+1000 2016 highestUID: 410
+18241: [00:55:31.888] 19:55:41.755 | Trying to open file '/Users/s127770/Desktop/Website-1 copy.muse with size:2129920 mod Date:Thu Oct 20 19:51:32 GMT+1100 2016
+18241: [00:55:31.892] 19:55:41.759 | Opening file '/Users/s127770/Desktop/Website-1 copy.muse' with status:success size:2129920 mod Date:Thu Oct 20 19:51:32 GMT+1100 2016 highestUID: 916
+18241: [00:57:22.534] 19:57:32.401 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:1055
+18241: [00:57:24.122] 19:57:33.989 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:2129920 mod Date:Thu Oct 20 19:57:33 GMT+1100 2016 highest UID:1055
+18241: [01:00:37.893] 20:00:47.760 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:1398
+18241: [01:00:39.131] 20:00:48.998 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:2228224 mod Date:Thu Oct 20 20:00:48 GMT+1100 2016 highest UID:1398
+18241: [01:05:31.810] 20:05:41.677 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:1537
+18241: [01:05:33.101] 20:05:42.968 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:2293760 mod Date:Thu Oct 20 20:05:42 GMT+1100 2016 highest UID:1537
+18241: [01:08:55.496] 20:09:05.363 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:1597
+18241: [01:08:56.734] 20:09:06.601 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:2686976 mod Date:Thu Oct 20 20:09:06 GMT+1100 2016 highest UID:1597
+18241: [01:24:12.798] 20:24:22.665 | Trying to open file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/27822796_CiaraClarisse WEEK 2/w2.muse with size:2916352 mod Date:Thu Sep 22 05:48:35 GMT+1000 2016
+18241: [01:24:12.806] 20:24:22.672 | Opening file '/Users/s127770/Documents/Uni/SEMESTER 2/Comp Lab/27822796_CiaraClarisse WEEK 2/w2.muse' with status:success size:2916352 mod Date:Thu Sep 22 05:48:35 GMT+1000 2016 highestUID: 2400
+18241: [01:27:10.350] 20:27:20.217 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:1759
+18241: [01:27:12.275] 20:27:22.141 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:3014656 mod Date:Thu Oct 20 20:27:22 GMT+1100 2016 highest UID:1759
+18241: [01:38:45.971] 20:38:55.838 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:1793
+18241: [01:38:47.174] 20:38:57.041 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:3112960 mod Date:Thu Oct 20 20:38:56 GMT+1100 2016 highest UID:1793
+18241: [01:42:08.331] 20:42:18.198 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:1803
+18241: [01:42:09.606] 20:42:19.473 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:3112960 mod Date:Thu Oct 20 20:42:19 GMT+1100 2016 highest UID:1803
+18241: [01:51:15.393] 20:51:25.259 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:2006
+18241: [01:51:16.997] 20:51:26.863 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:3538944 mod Date:Thu Oct 20 20:51:26 GMT+1100 2016 highest UID:2006
+18241: [02:04:05.984] 21:04:15.851 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:2107
+18241: [02:04:07.605] 21:04:17.472 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:3735552 mod Date:Thu Oct 20 21:04:17 GMT+1100 2016 highest UID:2107
+18241: [02:09:00.065] 21:09:09.932 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:2248
+18241: [02:09:01.324] 21:09:11.191 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:4390912 mod Date:Thu Oct 20 21:09:11 GMT+1100 2016 highest UID:2248
+18241: [02:09:50.397] 21:10:00.264 | Beginning Save for file '/Users/s127770/Desktop/Website-1 copy.muse' highest UID:2248
+18241: [02:09:51.994] 21:10:01.861 | Save complete for file '/Users/s127770/Desktop/Website-1 copy.muse' file size:4390912 mod Date:Thu Oct 20 21:10:01 GMT+1100 2016 highest UID:2248
+18241: [02:10:19.341] 21:10:29.208 | Trying to open file '/Users/s127770/Desktop/FINAL PROJECT.muse with size:4390912 mod Date:Thu Oct 20 21:10:01 GMT+1100 2016
+18241: [02:10:19.348] 21:10:29.215 | Opening file '/Users/s127770/Desktop/FINAL PROJECT.muse' with status:success size:4390912 mod Date:Thu Oct 20 21:10:01 GMT+1100 2016 highestUID: 2248
+18241: [02:11:49.444] 21:11:59.311 | Beginning Save for file '/Users/s127770/Desktop/FINAL PROJECT.muse' highest UID:2288
+18241: [02:11:51.207] 21:12:01.074 | Save complete for file '/Users/s127770/Desktop/FINAL PROJECT.muse' file size:4390912 mod Date:Thu Oct 20 21:12:00 GMT+1100 2016 highest UID:2288
+18241: [02:14:05.873] 21:14:15.740 | Beginning Save for file '/Users/s127770/Desktop/FINAL PROJECT.muse' highest UID:2301
+18241: [02:14:07.127] 21:14:16.994 | Save complete for file '/Users/s127770/Desktop/FINAL PROJECT.muse' file size:4390912 mod Date:Thu Oct 20 21:14:16 GMT+1100 2016 highest UID:2301
+18241: [02:18:06.533] 21:18:16.400 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisee/FINAL PROJECT.muse with size:4390912 mod Date:Thu Oct 20 21:14:16 GMT+1100 2016
+18241: [02:18:06.537] 21:18:16.404 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisee/FINAL PROJECT.muse' with status:success size:4390912 mod Date:Thu Oct 20 21:14:16 GMT+1100 2016 highestUID: 2301
+18241: [15:08:11.681] 10:08:21.547 | Trying to open file '/Users/s127770/Desktop/27822796_CiaraClarisee/FINAL PROJECT.muse with size:4390912 mod Date:Thu Oct 20 21:14:16 GMT+1100 2016
+18241: [15:08:11.686] 10:08:21.552 | Opening file '/Users/s127770/Desktop/27822796_CiaraClarisee/FINAL PROJECT.muse' with status:success size:4390912 mod Date:Thu Oct 20 21:14:16 GMT+1100 2016 highestUID: 2301
+18241: [254:49:15.289] 09:49:25.155 | quitWithUI:Quitting Application. Called by: 
+18241: [254:49:15.300] 09:49:25.167 | Quitting Application after 15289.1 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
